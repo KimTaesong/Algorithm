@@ -15,6 +15,7 @@
 | 1주차(12.21~12.25) | 12.25    | [입체기동장치 생산공장](https://codeup.kr/problem.php?id=1805)<br />[데이터 재정렬](https://codeup.kr/problem.php?id=3004)<br> [(재귀 함수) 1부터 n까지 출력하기](https://codeup.kr/problem.php?id=1901)<br />[(재귀 함수) 1부터 n까지 역순으로 출력하기](https://codeup.kr/problem.php?id=1902) | 구조체, 재귀함수   |
 | 2주차(12.26~1.1)   | 1.1      | [[BOJ 단계별 문제집]](https://www.acmicpc.net/step)<br>[문자열](https://www.acmicpc.net/step/7)<br> [수학1](https://www.acmicpc.net/step/8)<br> [수학2](https://www.acmicpc.net/step/10)<br> [재귀](https://www.acmicpc.net/step/19)<br> [브루트포스](https://www.acmicpc.net/step/22)<br>                                                        | 문자열, 수학1, 수학2, 재귀, 브루트포스     |
 | 3주차(1.2~1.8)   | 1.8      | [[BOJ 단계별 문제집]](https://www.acmicpc.net/step)<br> [정렬](https://www.acmicpc.net/step/9)<br> [백트래킹](https://www.acmicpc.net/step34)<br>[동적 계획법 1](https://www.acmicpc.net/step/16) <br>[그리디 알고리즘](https://www.acmicpc.net/step/33)<br>[정수론 및 조합론](https://www.acmicpc.net/step/18)<br>                                                        | 정렬, 백트래킹, 동적 계획법, 그리디, 정수론 및 조합론     |
+| 4주차(1.9~1.15)   | 1.15      | [[BOJ 단계별 문제집]](https://www.acmicpc.net/step)<br> [스택](https://www.acmicpc.net/step/11)<br> [큐, 덱](https://www.acmicpc.net/step12)<br>[분할 정복](https://www.acmicpc.net/step/20) <br>[이분 탐색](https://www.acmicpc.net/step/29)<br>[우선순위 큐](https://www.acmicpc.net/step/13)<br>                                                        | 스택, 큐, 덱, 분할 정복, 이분 탐색, 우선순위 큐     |
 
 
 
