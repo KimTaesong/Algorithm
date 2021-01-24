@@ -1,3 +1,4 @@
+# BOJ 백트래킹 N과 M (4) 15652
 N, M = map(int, input().split())
 
 check = [0] * (N+1)
