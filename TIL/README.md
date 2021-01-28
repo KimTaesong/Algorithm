@@ -25,7 +25,7 @@
 
 | 차수  | 문제  | 유형  |
 | ----- | ----- | ----- |
-| 1주차(1.26~1.31) | 1. p 90 동전의 개수 구하기<br> 2. p 92 큰수의 법칙| 그리디 알고리즘<br />|
+| 1주차(1.26~1.31) | 1. p 90 동전의 개수 구하기<br> 2. p 92 큰수의 법칙<br> 3. p 96 숫자 카드 게임 <br>  [2839. 설탕 배달](https://www.acmicpc.net/problem/2839) <br> [2810. 컵홀더](https://www.acmicpc.net/problem/2810) <br> [2217. 로프](https://www.acmicpc.net/problem/2217) <br> [4796. 캠핑](https://www.acmicpc.net/problem/4796)<br> [1339. 단어 수학](https://www.acmicpc.net/problem/1339)<br> | 그리디 알고리즘<br />|
 
   
 ### ⚡ [참고자료] 

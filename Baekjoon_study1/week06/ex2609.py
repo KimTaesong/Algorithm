@@ -1,3 +1,4 @@
+# BOJ 정수론 및 조합론 최대공약수와 최소공배수 2609
 a, b = map(int, input().split())
 
 # for i in range(1, min(a, b)+1):
