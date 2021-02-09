@@ -23,7 +23,7 @@ def dfs(x, y, rain):
                 dfs(nx, ny, rain)
 
 
-for k in range(1, max_value):
+for k in range(0, max_value):
     cnt = 0
     visited = [[0] * (N+1) for _ in range(N+1)]
     for i in range(1, N+1):
