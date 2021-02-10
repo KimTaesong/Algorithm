@@ -4,7 +4,7 @@ M, N, H = map(int, input().split())
 tomato = []
 for i in range(H):
     tomato.append([list(map(int, input().split())) for _ in range(N)])
-print(tomato)
+# print(tomato)
 
 # 3차원 방향 벡터
 dx = [1, 0, 0, -1, 0, 0]
