@@ -1,4 +1,7 @@
 ## 🔭<알고리즘 & 코딩테스트 대비 저장소>
+### 🤔 참여중인 스터디
+1. [수요일 코테 스터디](https://github.com/KimTaesong/Algorithm/tree/master/Baekjoon_study1)
+2. [금요일 코테 스터디](https://github.com/KimTaesong/Algorithm/tree/master/Baekjoon_study2)
 
 ### 🌱 알고리즘
     1. 기본적인 자료구조
