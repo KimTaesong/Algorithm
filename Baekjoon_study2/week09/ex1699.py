@@ -1,3 +1,4 @@
+# BOJ 1699 제곱수의 합
 import math
 
 N = int(input())
