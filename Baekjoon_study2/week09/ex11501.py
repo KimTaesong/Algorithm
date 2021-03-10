@@ -18,16 +18,16 @@ target: 주어진 주가 정보를 가지고 최대 이익을 구해봐라.
 #             cnt += (max_value-day_cost[i])
 #     print(cnt)
 
-# 2. 시간 초과 해결
-T = int(input())  # 테스트케이스의 개수
-for i in range(T):
-    N = int(input())  # N: 자연수의 개수
-    day_cost = list(map(int, input().split()))  # 날 별 주가
-    cnt = 0
-    max_value = day_cost[-1]
-    for i in range(N-2, -1, -1):
-        if day_cost[i] > max_value:
-            max_value = day_cost[i]
-        else:
-            cnt += max_value - day_cost[i]
-    print(cnt)
+# # 2. 시간 초과 해결
+# T = int(input())  # 테스트케이스의 개수
+# for i in range(T):
+#     N = int(input())  # N: 자연수의 개수
+#     day_cost = list(map(int, input().split()))  # 날 별 주가
+#     cnt = 0
+#     max_value = day_cost[-1]
+#     for i in range(N-2, -1, -1):
+#         if day_cost[i] > max_value:
+#             max_value = day_cost[i]
+#         else:
+#             cnt += max_value - day_cost[i]
+#     print(cnt)

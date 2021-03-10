@@ -7,6 +7,7 @@
 * 플랫폼: Zoom을 통한 비대면 스터디
 * 진행 방식: 당일 사다리 타기로 각자 2문제씩 선정 후 코드 리뷰.
 * 문제 선정 : 스터디 종료 후 스터디원들과 함께 선정  
+* 3월 개강 이후 가벼운 스터디로 전환(1주에 5문제)
 ## 📅 스터디 진행
 
 | 차수 | 모임 날짜 | 문제 | 유형 |
@@ -20,6 +21,7 @@
 | 7주차(2.11~2.17)   | 2.17      | [[7주차]](https://www.acmicpc.net/group/workbook/view/9705/30024)<br>[15686. 치킨 배달](https://www.acmicpc.net/problem/15686)<br/>[8980.	 택배](https://www.acmicpc.net/problem/8980)<br /> [2437. 저울](https://www.acmicpc.net/problem/2437)<br/>[3035.	 탈출](https://www.acmicpc.net/problem/3035)<br />[3190. 뱀](https://www.acmicpc.net/problem/3190)<br/>[14888.	 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)<br />[1182. 부분수열의 합](https://www.acmicpc.net/problem/1182)<br/>[11052. 카드 구매하기](https://www.acmicpc.net/problem/11052)<br />[2133.	타일 채우기](https://www.acmicpc.net/problem/2133)<br/>[15649.	 N과 M (1)](https://www.acmicpc.net/problem/15649)<br/>[2583. 영역 구하기](https://www.acmicpc.net/problem/2583)<br> [2644. 촌수 계산](https://www.acmicpc.net/problem/2644)<br/>| 구현<br> 그리디<br>다이나믹 프로그래밍<br> DFS/BFS<br>|
 | 8주차(2.18~2.24)   | 2.24      | [[8주차]](https://www.acmicpc.net/group/workbook/view/10321/30630)<br>[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)<br/>[1520.	 내리막 길](https://www.acmicpc.net/problem/1520)<br /> [11722. 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)<br/>[1316.	그룹 단어 체커](https://www.acmicpc.net/problem/1316)<br />[14500. 테트로미노](https://www.acmicpc.net/problem/14500)<br/>[2847.	 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)<br />[1062. 가르침](https://www.acmicpc.net/problem/1062)<br/>[16236. 아기 상어](https://www.acmicpc.net/problem/16236)<br />[7562. 나이트의 이동](https://www.acmicpc.net/problem/7562)<br/>[16236.	 아기 상어](https://www.acmicpc.net/problem/16236)<br/>| 구현<br> 그리디<br>다이나믹 프로그래밍<br> DFS/BFS<br>|
 | 9주차(2.25~3.09)   | 3.09<br>(한 주 딜레이)      | [[9주차]](https://www.acmicpc.net/group/workbook/view/10321/30884)<br>[1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)<br/>[11051.	 이항 계수2](https://www.acmicpc.net/problem/11051)<br /> [12865. 평범한 배낭](https://www.acmicpc.net/problem/12865)<br/>[11501.	주식](https://www.acmicpc.net/problem/11501)<br />[2457. 공주님의 정원](https://www.acmicpc.net/problem/2457)<br/>[15900.	 나무 탈출](https://www.acmicpc.net/problem/15900)<br />[9372. 상근이의 여행](https://www.acmicpc.net/problem/9372)<br/>[2343. 기타 레슨](https://www.acmicpc.net/problem/2343)<br />[1939. 중량 제한](https://www.acmicpc.net/problem/1939)<br/>[2504. 괄호의 값](https://www.acmicpc.net/problem/2504)<br/>| 트리<br> 그리디<br>다이나믹 프로그래밍<br> DFS/BFS<br>|
+| 10주차(3.10~3.16)   | 3.16      | [[10주차]](https://www.acmicpc.net/group/workbook/view/10321/30884)<br>[1010. 다리 놓기](https://www.acmicpc.net/problem/1010)<br/>[9465.	스티커](https://www.acmicpc.net/problem/9465)<br /> [11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)<br/>[14499.	주사위 굴리기](https://www.acmicpc.net/problem/14499)<br />[1080. 행렬](https://www.acmicpc.net/problem/1080)<br/>| 트리<br> 그리디<br>다이나믹 프로그래밍<br> DFS/BFS<br>|
 
 
 ## 🙋 커밋 규칙
