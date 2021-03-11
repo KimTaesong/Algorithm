@@ -1,0 +1,10 @@
+-- 1. limit을 사용한 풀이
+SELECT DATETIME as 시간
+FROM ANIMAL_INS
+ORDER BY DATETIME DESC
+limit 1;
+
+-- 2. MAX를 사용한 풀이
+SELECT MAX(DATETIME) as 시간
+FROM ANIMAL_INS
+
