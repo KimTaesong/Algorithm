@@ -3,10 +3,11 @@
 ## ✨ 스터디 방식
 
 * BOJ 단계별 문제집 2문제씩 풀기 (주 10문제)
-* 고정 리뷰 시간 : 금요일 오후 5시 / 공휴일 리뷰 시간 : 금요일 오전 11시
+* 고정 리뷰 시간 : 금요일 오후 10시 / 공휴일 리뷰 시간 : 금요일 오전 11시
 * 구글 meet로 진행
 * 리뷰는 당일 사다리타기
-* BOJ 단계별 문제집 풀기
+* BOJ 단계별 문제집 풀기 (어느 정도 완료)
+* BOJ 유형 힌트 없는 문제집 선정 후 풀이
 
 ## 📅 스터디 진행
 
@@ -24,6 +25,7 @@
 | 10주차(2.20~2.26)   | 2.26      |  [1406. 에디터](https://www.acmicpc.net/problem/1406)<br> [10989. 수 정렬하기 3](https://www.acmicpc.net/problem/10989)<br> [10815. 숫자 카드](https://www.acmicpc.net/problem/10815)<br>[7576. 토마토](https://www.acmicpc.net/problem/7576)<br>[2565. 전깃줄](https://www.acmicpc.net/problem/2565)<br>  [1181. 단어 정렬](https://www.acmicpc.net/problem/1181)<br>[2178. 미로 탐색](https://www.acmicpc.net/problem/2178)<br> [9251. LCS](https://www.acmicpc.net/problem/9251)<br>[1026. 보물](https://www.acmicpc.net/problem/1026)<br>[11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650)<br> [1300. K번째 수](https://www.acmicpc.net/problem/1300)                                                     |  [BOJ  길라잡이 베타](https://www.acmicpc.net/workbook/view/2418)<br>[DP](https://www.acmicpc.net/step/16)<br>[DFS와 BFS](https://www.acmicpc.net/step/24)<br>[이분탐색](https://www.acmicpc.net/step/29)
 | 11주차(2.27~3.05)   | 3.05      |  [14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)<br> [11651. 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)<br> [6603. 로또](https://www.acmicpc.net/problem/6603)<br>[1158. 요세푸스 문제](https://www.acmicpc.net/problem/1158)<br>[9095. 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)<br>  [5430. AC](https://www.acmicpc.net/problem/5430)<br>[1182. 부분 수열의 합](https://www.acmicpc.net/problem/1182)<br> [1929. 소수 구하기](https://www.acmicpc.net/problem/1929)<br>[10867. 중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)<br>[15686. 치킨 배달](https://www.acmicpc.net/problem/15686)<br>                                           |  [BOJ  길라잡이 베타](https://www.acmicpc.net/workbook/view/2418)<br>[DP](https://www.acmicpc.net/step/16)<br>[DFS와 BFS](https://www.acmicpc.net/step/24)<br>[이분탐색](https://www.acmicpc.net/step/29)
 | 12주차(3.06~3.12)   | 3.12      |  [15686. 치킨 배달](https://www.acmicpc.net/problem/15686)<br> [5430. AC](https://www.acmicpc.net/problem/5430)<br>[7569. 토마토](https://www.acmicpc.net/problem/7569)<br> [11726. 2xn 타일링](https://www.acmicpc.net/problem/11726)<br> [2661. 좋은수열](https://www.acmicpc.net/problem/2661)<br>[2583. 영역 구하기](https://www.acmicpc.net/problem/2583)<br>[1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)<br>  [1644. 소수의 연속합](https://www.acmicpc.net/problem/1644)<br>[2485. 가로수](https://www.acmicpc.net/problem/2485)<br> [1912. 연속합](https://www.acmicpc.net/problem/1912)<br>[2580. 스도쿠](https://www.acmicpc.net/problem/2580)<br>                                           |  [BOJ  길라잡이 베타](https://www.acmicpc.net/workbook/view/2418)<br>
+| 13주차(3.13~3.19)   | 3.19      |  [2661. 좋은수열](https://www.acmicpc.net/problem/2661)<br>[2293. 동전 1](https://www.acmicpc.net/problem/2293)<br> [1654. 랜선 자르기](https://www.acmicpc.net/problem/1654)<br>[1644. 소수의 연속합](https://www.acmicpc.net/problem/1644)<br>[2217. 로프](https://www.acmicpc.net/problem/2217)<br>  [2805. 나무 자르기](https://www.acmicpc.net/problem/2805)<br>[2636. 치즈](https://www.acmicpc.net/problem/2636)<br> [11727. 2xn 타일링 2](https://www.acmicpc.net/problem/11727)<br> [2529. 부등호](https://www.acmicpc.net/problem/2529)<br>[2512. 예산](https://www.acmicpc.net/problem/2512)<br>                                           |  [BOJ  길라잡이 베타](https://www.acmicpc.net/workbook/view/2418)<br>
 ## 🙋 커밋 규칙
 
 * 파일명
