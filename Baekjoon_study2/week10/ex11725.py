@@ -1,30 +1,31 @@
 # BOJ 11725 트리의 부모 찾기
-N = int(input())  # 노드의 개수
-tree = [0] * 100001
-stack = []
-for i in range(N-1):
-    a, b = map(int, input().split())
-    if a == 1:
-        tree[b] = 1
+import sys
+input = sys.stdin.readline
+node = int(input())  # 노드의 개수
+node_graph = [[] for _ in range(node + 1)]  # 그래프
+parent = [[] for _ in range(node + 1)]  # 부모 노드를 저장하는 배열
 
-    elif b == 1:
-        tree[a] = 1
+# 트리를 그래프 형태로 생성
 
-    elif tree[a]:
-        tree[b] = a
+for _ in range(node - 1):
+    i, j = map(int, input().split())
+    node_graph[i].append(j)
+    node_graph[j].append(i)
 
-    elif tree[b]:
-        tree[a] = b
+# DFS로 탐색
 
-    else:
-        stack.append([a, b])
-for i in range(len(stack)):
-    if tree[stack[i][0]]:
-        tree[stack[i][1]] = stack[i][0]
 
-    elif tree[stack[i][1]]:
-        tree[stack[i][0]] = stack[i][1]
+def dfs(graph_list, start, parent):
+    stack = [start]
 
-for i in tree[2:]:
-    if i != 0:
-        print(i)
+    while stack:
+        node = stack.pop()
+        for i in graph_list[node]:
+            parent[i].append(node)
+            stack.append(i)
+            graph_list[i].remove(node)
+    return parent
+
+
+for i in list(dfs(node_graph, 1, parent))[2:]:
+    print(i[0])
