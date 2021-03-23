@@ -1,4 +1,4 @@
-# BOJ 예산 2529
+# BOJ 부등호 2529
 import sys
 input = sys.stdin.readline
 k = int(input())

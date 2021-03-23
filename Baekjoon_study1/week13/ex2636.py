@@ -7,7 +7,6 @@ dy = [0, -1, 0, 1]
 
 def find_air():
     visited = [[False] * c for _ in range(r)]
-    print(board)
     q = deque([[0, 0]])
     visited[0][0] = True
     cnt = 0
