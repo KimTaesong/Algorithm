@@ -1,6 +1,14 @@
 # BOJ 숫자 고르기 2668
-N = int(input())
-nums = {}
-for i in range(N):
-    nums[i+1] = int(input())
-print(nums)
+n = int(input())
+dic = {}
+for i in range(n):
+    dic[i+1] = int(input())
+
+while True:
+    baseSet = set(dic.values())
+    dic = {key: value for key, value in dic.items() if key in baseSet}
+    if baseSet == set(dic.values()):
+        break
+print(len(dic))
+for key in dic.keys():
+    print(key)
