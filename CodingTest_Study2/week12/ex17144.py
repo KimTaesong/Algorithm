@@ -10,10 +10,10 @@ dy = [0, 1, 0, -1]
 room = [list(map(int, input().split())) for _ in range(R)]
 
 # 공기청정기 찾기, 1열에 있음.
-now = (0, 0)
+air_fresh = (0, 0)
 for i in range(R):
     if room[i][0] == -1 and room[i+1][0] == -1:
-        now = (i, i+1)
+        air_fresh = (i, i+1)
         break
 
 
@@ -60,43 +60,43 @@ for _ in range(T):
 
     # 순환
     # upper bound (오 위 왼 아래 순서) - 시계 반대 방향
-    temp = room[now[0]][C-1]  # 위로 올라가는 애
+    temp = room[air_fresh[0]][C-1]  # 위로 올라가는 애
     for i in range(C-2, 0, -1):
-        room[now[0]][i+1] = room[now[0]][i]
+        room[air_fresh[0]][i+1] = room[air_fresh[0]][i]
 
     temp2 = room[0][C-1]  # 왼쪽으로 가는 애
-    for i in range(now[0]-1):
+    for i in range(air_fresh[0]-1):
         room[i][C-1] = room[i+1][C-1]
-    room[now[0]-1][C-1] = temp
+    room[air_fresh[0]-1][C-1] = temp
 
     temp = room[0][0]  # 아래쪽으로 갈 애
     for i in range(C-1):
         room[0][i] = room[0][i+1]
     room[0][C-2] = temp2
 
-    for i in range(now[0]-1, 1, -1):
+    for i in range(air_fresh[0]-1, 1, -1):
         room[i][0] = room[i-1][0]
-    room[now[0]][1] = 0  # 공기청정기 위치에서 오른쪽으로 1칸 위치: 깨끗한 공기가 나오니까.
+    room[air_fresh[0]][1] = 0  # 공기청정기 위치에서 오른쪽으로 1칸 위치: 깨끗한 공기가 나오니까.
     room[1][0] = temp
 
     # lower boud (오 아래 왼 위 순서) - 시계 방향
-    temp = room[now[1]][C-1]  # 아래쪽으로 가는 애
+    temp = room[air_fresh[1]][C-1]  # 아래쪽으로 가는 애
     for i in range(C-2, 0, -1):
-        room[now[1]][i+1] = room[now[1]][i]
+        room[air_fresh[1]][i+1] = room[air_fresh[1]][i]
 
     temp2 = room[R-1][C-1]  # 왼쪽으로 가는 애
-    for i in range(R-1, now[1], -1):
+    for i in range(R-1, air_fresh[1], -1):
         room[i][C - 1] = room[i-1][C - 1]
-    room[now[1]+1][C-1] = temp
+    room[air_fresh[1]+1][C-1] = temp
 
     temp = room[R-1][0]  # 위로 가는 애
     for i in range(C-1):
         room[R-1][i] = room[R-1][i+1]
     room[R-1][C-2] = temp2
 
-    for i in range(now[1]+1, R-1):
+    for i in range(air_fresh[1]+1, R-1):
         room[i][0] = room[i+1][0]
-    room[now[1]][1] = 0  # 공기청정기 위치에서 오른쪽으로 1칸 위치: 깨끗한 공기가 나오니까.
+    room[air_fresh[1]][1] = 0  # 공기청정기 위치에서 오른쪽으로 1칸 위치: 깨끗한 공기가 나오니까.
     room[R-2][0] = temp
 
 

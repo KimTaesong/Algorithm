@@ -29,15 +29,16 @@
 ## 🙋 커밋 규칙
 
 * 파일명
-  * (문제번호).py
-  * Ex) ex1011.py
+  * 주차폴더_ex문제번호.py
+  * 번호가 없다면 문제 이름으로 대체
+  * Ex) week01/ex1011.py, week02/개발지옥.py
+  
 * 커밋 내용
-  * 문제 풀이 사이트 + 문제 번호
-  * Ex) BOJ 11072 
+  * 주차 + 온라인 저지 + 문제명
+  * ex) week01 BOJ 16789, week02 Programmers 기능개발
 
 ## **💻** 온라인 저지 모음
 
-* [코드업](https://codeup.kr/index.php)
 * [프로그래머스](https://programmers.co.kr/)
 * [백준](https://www.acmicpc.net/)
 
