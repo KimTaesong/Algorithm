@@ -12,7 +12,6 @@ def bfs(x, y):
     eaten_flag = False  # 현재 상태에서 물고기를 먹은 경우,
     # for _ in range(size) 구문을 진행하지 않기 위한 플래그
     answer = 0
-    print(f"q: {q}, visited: {visited}, time: {time}, shark_size: {shark_size}, eaten: {eaten}, eaten_flag: {eaten_flag}, answer: {answer}")
 
     while q:
         size = len(q)
