@@ -2,7 +2,8 @@
 
 ## ✨ 스터디 방식 및 이력
 ### 2021-05-05
-*새나라의 어린이 마음으로 14주차 스터디 재개
+* 새나라의 어린이 마음으로 14주차 스터디 재개
+* 문제 선정 변화: 기존처럼 유형별 문제 하나씩 선정 후 풀이  
 ### 2021-04-08 
 * 스터디 3주간 휴식: 5월에 다시 만나요~!
 ### 2021-03-25
@@ -30,6 +31,7 @@
 
 | 차수 | 모임 날짜 | 문제 | 유형 |
 | :-: | :-: | :- | :- |
+| 15주차(5.06~5.12)   | 5.12      | [[15주차]](https://www.acmicpc.net/group/workbook/view/10321/33291)<br>[2565. 전깃줄](https://www.acmicpc.net/problem/2565)<br/>[1904. 01타일](https://www.acmicpc.net/problem/1904)<br /> [16234. 인구 이동](https://www.acmicpc.net/problem/16234)<br/>[1389.	케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)<br />[19237. 어른 상어](https://www.acmicpc.net/problem/19237)<br/>| [자체 문제집 선정](https://www.acmicpc.net/group/workbook/view/10321/33291) |
 | 14주차(4.29~5.05)   | 5.05      | [[14주차]](https://www.acmicpc.net/group/workbook/view/10321/33185)<br>[17070. 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)<br/>[17281. 	⚾](https://www.acmicpc.net/problem/17281)<br /> [19237. 어른 상어](https://www.acmicpc.net/problem/19237)<br/>| [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) |
 | 13주차(4.01~4.07)   | 4.07      | [[13주차]](https://www.acmicpc.net/group/workbook/view/10321/32353)<br>[19236. 청소년 상어](https://www.acmicpc.net/problem/19236)<br/>[20055. 	컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)<br /> [14891. 톱니바퀴](https://www.acmicpc.net/problem/14891)<br/>[14889.	 스타트와 링크](https://www.acmicpc.net/problem/14889)<br />[16235. 나무 재테크](https://www.acmicpc.net/problem/16235)<br/>| [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) | 
 | 12주차(3.25~3.31)   | 3.31      | [[12주차]](https://www.acmicpc.net/group/workbook/view/10321/31965)<br>[14890. 경사로](https://www.acmicpc.net/problem/14890)<br/>[17144.	미세먼지 안녕!](https://www.acmicpc.net/problem/17144)<br /> [17140. 이차원 배열과 연산](https://www.acmicpc.net/problem/17140)<br/>[15684.	사다리 조작](https://www.acmicpc.net/problem/15684)<br />[14501. 퇴사](https://www.acmicpc.net/problem/14501)<br/>| [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)|
