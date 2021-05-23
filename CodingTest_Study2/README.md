@@ -1,6 +1,10 @@
 # ✏️알고리즘 스터디
 
 ## ✨ 스터디 방식 및 이력
+
+### 2021-05-19
+* 16주차 공휴일 1주 딜레이
+* 5.26일 수요일 스터디
 ### 2021-05-05
 * 새나라의 어린이 마음으로 14주차 스터디 재개
 * 문제 선정 변화: 기존처럼 유형별 문제 하나씩 선정 후 풀이  
@@ -31,6 +35,7 @@
 
 | 차수 | 모임 날짜 | 문제 | 유형 |
 | :-: | :-: | :- | :- |
+| 16주차(5.13~5.26)   | 5.26(딜레이)     | [[16주차]](https://www.acmicpc.net/group/workbook/view/10321/33540)<br>[15685. 드래곤 커브](https://www.acmicpc.net/problem/15685)<br/>[2636. 치즈](https://www.acmicpc.net/problem/2636)<br /> [1707. 이분 그래프](https://www.acmicpc.net/problem/1707)<br/>[1915.	가장 큰 정사각형](https://www.acmicpc.net/problem/1915)<br />[2225. 합 분해](https://www.acmicpc.net/problem/2225)<br/>| [자체 문제집 선정](https://www.acmicpc.net/group/workbook/view/10321/33291) |
 | 15주차(5.06~5.12)   | 5.12      | [[15주차]](https://www.acmicpc.net/group/workbook/view/10321/33291)<br>[2565. 전깃줄](https://www.acmicpc.net/problem/2565)<br/>[1904. 01타일](https://www.acmicpc.net/problem/1904)<br /> [16234. 인구 이동](https://www.acmicpc.net/problem/16234)<br/>[1389.	케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)<br />[19237. 어른 상어](https://www.acmicpc.net/problem/19237)<br/>| [자체 문제집 선정](https://www.acmicpc.net/group/workbook/view/10321/33291) |
 | 14주차(4.29~5.05)   | 5.05      | [[14주차]](https://www.acmicpc.net/group/workbook/view/10321/33185)<br>[17070. 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)<br/>[17281. 	⚾](https://www.acmicpc.net/problem/17281)<br /> [19237. 어른 상어](https://www.acmicpc.net/problem/19237)<br/>| [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) |
 | 13주차(4.01~4.07)   | 4.07      | [[13주차]](https://www.acmicpc.net/group/workbook/view/10321/32353)<br>[19236. 청소년 상어](https://www.acmicpc.net/problem/19236)<br/>[20055. 	컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)<br /> [14891. 톱니바퀴](https://www.acmicpc.net/problem/14891)<br/>[14889.	 스타트와 링크](https://www.acmicpc.net/problem/14889)<br />[16235. 나무 재테크](https://www.acmicpc.net/problem/16235)<br/>| [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) | 
