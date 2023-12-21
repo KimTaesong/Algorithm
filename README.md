@@ -1,5 +1,9 @@
 ## 🔭<알고리즘 & 코딩테스트 대비 저장소>
-### 🤔 참여중인 스터디
+### 🌱 자바로 다시 시작하는 알고리즘 공부(23.12.21 ~ )
+    1. LEETCODE
+    2. Programmers
+    
+### 🤔 과거 스터디
 - [[수요일 코딩테스트 스터디]](https://github.com/KimTaesong/Algorithm/tree/master/CodingTest_Study2)
 - [[금요일 코딩테스트 스터디]](https://github.com/KimTaesong/Algorithm/tree/master/CodingTest_Study1)
 - [[프로그래머스 스터디]](https://github.com/KimTaesong/Algorithm/tree/master/programmers)
